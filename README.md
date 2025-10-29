@@ -63,3 +63,11 @@ For Policymakers
 4. “Depression” is self-assessed, not clinically diagnosed.
 5. Slight imbalance between cities and degree categories.
 
+### Suggestions
+Future projects can:
+ - Incorporate multi-year datasets.
+ - Merge quantitative + qualitative insights (surveys/interviews).
+ - Build a predictive depression risk model using Python or Power BI.
+
+#DataAnalysis #Data #Excel #MentalHealth #EducationAnalytics #DataStorytelling #StudentWellbeing #DataVisualization #PortfolioProject #VephlaUniversity
+
