@@ -1,5 +1,5 @@
 # Student-Depression-Analysis-2022-
-Using data this analysis explores the reasons why so many university students struggle with depression, and how academic life, lifestyle habits, and personal background might shape their mental well-being.
+## Using data this analysis explores the reasons why so many university students struggle with depression, and how academic life, lifestyle habits, and personal background might shape their mental well-being.
 ---
 ### Overview
 This project explores the Student Depression Dataset (2022) to uncover how academic pressure, sleep, and lifestyle choices impact student mental health.
