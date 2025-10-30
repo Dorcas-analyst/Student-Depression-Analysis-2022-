@@ -5,10 +5,9 @@ Using data this analysis explores the reasons why so many university students st
 This project explores the Student Depression Dataset (2022) to uncover how academic pressure, sleep, and lifestyle choices impact student mental health.
 The analysis focuses on identifying patterns of depression, stress, and suicidal thoughts across age groups, genders, degree types, and cities.
 
-📊 Tools Used: Excel (Pivot Tables, Charts, Dashboards) 
-Dataset: Kaggle – Student Depression Dataset (2022)
-Year: 2022 |
-Rows: 27,902 | Columns: 18
+ - 📊 Tools Used: Excel (Pivot Tables, Charts, Dashboards)
+ - 📁 Dataset: Kaggle – Student Depression Dataset (2022)
+ - 📅 Year: 2022 | 🔢 Rows: 27,902 | Columns: 18
 
 ### Objective
 To analyze how lifestyle and academic variables contribute to student depression, providing evidence-based insights for universities and policymakers.
