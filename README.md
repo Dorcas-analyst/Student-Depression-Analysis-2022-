@@ -71,7 +71,7 @@ Future projects can:
  - Merge quantitative + qualitative insights (surveys/interviews).
  - Build a predictive depression risk model using Python or Power BI.
 
-📖 Read the full Medium version here → [Read on Medium](https://medium.com/@dorcasoyibo2000/understanding-student-depression-insights-from-imperial-college-londons-2022-report-2d4515a0c049)
+📖 Read the full Medium version here → [Understanding Student Depression: Insights from Imperial College London’s 2022 Report](https://medium.com/@dorcasoyibo2000/understanding-student-depression-insights-from-imperial-college-londons-2022-report-2d4515a0c049)
 
 #DataAnalysis #Data #Excel #MentalHealth #EducationAnalytics #DataStorytelling #StudentWellbeing #DataVisualization #PortfolioProject #VephlaUniversity
 
