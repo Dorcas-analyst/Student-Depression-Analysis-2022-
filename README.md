@@ -1,7 +1,8 @@
-# Student-Depression-Analysis-2022-
+# Student Depression Analysis: Understanding the Hidden Patterns Behind Academic Pressure and Mental Health
 Using data this analysis explores the reasons why so many university students struggle with depression, and how academic life, lifestyle habits, and personal background might shape their mental well-being.
 ---
-![Student Depression dashboard](https://github.com/user-attachments/assets/13b75dd9-2b0b-472e-bbfe-9531d229caeb)
+![Student Depression dashboard](https://github.com/user-attachments/assets/f1e2874b-ab82-4e8d-bec6-89e609118993)
+
 
 ### Overview
 This project explores the Student Depression Dataset (2022) to uncover how academic pressure, sleep, and lifestyle choices impact student mental health.
@@ -71,7 +72,7 @@ Future projects can:
  - Merge quantitative + qualitative insights (surveys/interviews).
  - Build a predictive depression risk model using Python or Power BI.
 
-📖 Read the full Medium version here → [Understanding Student Depression: Insights from Imperial College London’s 2022 Report](https://medium.com/@dorcasoyibo2000/understanding-student-depression-insights-from-imperial-college-londons-2022-report-2d4515a0c049)
+📖 Read the full Medium version here → [Student Depression Analysis: Understanding the Hidden Patterns Behind Academic Pressure and Mental Health]   (https://medium.com/@dorcasoyibo2000/understanding-student-depression-insights-from-imperial-college-londons-2022-report-2d4515a0c049)
 
 #DataAnalysis #Data #Excel #MentalHealth #EducationAnalytics #DataStorytelling #StudentWellbeing #DataVisualization #PortfolioProject #VephlaUniversity
 
